@@ -1,0 +1,59 @@
+div{
+    height: 400px;
+    width: 650px;
+    margin: 20px;
+    padding: 30px;
+    border: 4px solid black;
+    border-radius:95px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,98,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h1
+{
+    height: 20px;
+    width: 200px;
+    margin: 20px;
+    padding: 30px;
+    border: 4px solid black;
+    border-radius:105px;
+}
+
+h2
+{
+    height: 20px;
+    width: 200px;
+    margin: 20px;
+    padding: 30px;
+    border: 4px solid black;
+    border-radius:105px;
+}
+
+p
+{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    padding: 30px;
+    border-radius:195px;
+    border: 2px solid black;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.kRahtGWu3YMSY8REbHez8QHaFZ&pid=Api&P=0&h=180);
+    background-position:center;
+  
+}
+
+h1
+{
+text-align:center;
+    float:left;
+ 
+}
+
+h2
+{
+    float:right;
+}
+
+
+
+
